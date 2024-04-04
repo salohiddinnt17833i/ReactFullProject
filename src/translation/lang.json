@@ -1,0 +1,33 @@
+{
+    "en": {
+        "translation": {
+            "Home": "Home",
+            "About": "About",
+            "Products": "Products",
+            "Cart": "Cart",
+            "We are changing the way people shop": "We are changing the way people shop",
+            "OUR PRODUCTS": "OUR PRODUCTS",
+            "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tempore repellat explicabo enim soluta temporibus asperiores aut obcaecati perferendis porro nobis.": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tempore repellat explicabo enim soluta temporibus asperiores aut obcaecati perferendis porro nobis.",
+            "We love comfy": "We love comfy",
+            "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore quae quam blanditiis vitae, dolor non eveniet ipsum voluptatibus, quia optio aut! Perferendis ipsa cumque ipsam nostrum reprehenderit ad illo sed officiis ea tempore! Similique eos minima sit porro, ratione aspernatur!": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore quae quam blanditiis vitae, dolor non eveniet ipsum voluptatibus, quia optio aut! Perferendis ipsa cumque ipsam nostrum reprehenderit ad illo sed officiis ea tempore! Similique eos minima sit porro, ratione aspernatur!",
+            "Featured Products": "Featured Products",
+            "Shopping Cart": "Shopping Cart"
+        }
+    },
+    "uz": {
+        "translation": {
+            "Home": "Asosiy",
+            "About": "Haqimizda",
+            "Products": "Mahsulotlar",
+            "Cart": "Savat",
+            "We are changing the way people shop": "Biz odamlarning xarid qilish uslubini o'zgartirmoqdamiz",
+            "OUR PRODUCTS": "Mahsulotlarimiz",
+            "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tempore repellat explicabo enim soluta temporibus asperiores aut obcaecati perferendis porro nobis.": "Mijozning o'zi, mijoz kompaniyaning adipissingini davom ettirishi mumkin bo'ladi. Vaqt o'tishi bilan bu bizni qaytarishini tushuntiraman, chunki biz yanada og'irroq yoki ko'r vaqtlarga chidashda davom etamiz.",
+            "We love": "Biz yaxshi ko'ramiz",
+            "comfy": "qulaylikni",
+            "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore quae quam blanditiis vitae, dolor non eveniet ipsum voluptatibus, quia optio aut! Perferendis ipsa cumque ipsam nostrum reprehenderit ad illo sed officiis ea tempore! Similique eos minima sit porro, ratione aspernatur!": "Mijoz uchun adipissing jarayoniga e'tibor berish juda muhimdir. Hayotning erkalash, dard rohatlariga bo'lmaydi, chunki tanlash yoki! Bunga chidab, u bizni buning uchun qoraladi, lekin o'sha paytdagi vazifalari uchun! Xuddi shunday, u eng kichigi bo'lsin, u aqlga sig'maydi!",
+            "Featured Products": "Tanlangan mahsulotlar",
+            "Shopping Cart": "Xarid savati"
+        }
+    }
+}
