@@ -6,6 +6,7 @@ import Protected from './Services/Protected';
 import About from './Pages/About';
 import Products from './Pages/Products';
 import Cart from './Pages/Cart';
+import Error from './Pages/Error';
 import { IoMoonSharp } from "react-icons/io5";
 import { CiSun } from "react-icons/ci";
 import { SlBasket } from "react-icons/sl";
@@ -115,8 +116,11 @@ function App() {
           <Route path='/products' element={<Products></Products>}></Route>
           <Route path='/products/:id' element={<ProductDetailes></ProductDetailes>}></Route>
           <Route path='/cart' element={<Cart></Cart>}></Route>
+          <Route path='/*' element={<Error />} />
+
         </Route>
       </Routes>
+
     </>
   );
 }
