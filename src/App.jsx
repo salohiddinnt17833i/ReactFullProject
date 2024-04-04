@@ -1,4 +1,4 @@
-import { Routes, Route, useNavigate, NavLink, Router } from 'react-router-dom';
+import { Routes, Route, NavLink } from 'react-router-dom';
 import Home from './Pages/Home';
 import Login from './Components/Login';
 import Register from './Components/Register';
