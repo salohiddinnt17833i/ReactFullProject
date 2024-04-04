@@ -1,3 +1,15 @@
+.allll{
+    width: 100%;
+    display: flex;
+    gap: 30px;
+    padding: 20px;
+}
+img {
+    object-fit: cover;
+    border-radius: 8px;
+}
+/* s/ */
+
 input {
     width: 220px;
     border-radius: 4px;
@@ -40,7 +52,14 @@ button {
 label {
     margin-bottom: 10px;
 }
-
+.colors{
+    display: flex;
+    gap: 10px;
+}
+#color{
+    width: 30px;
+    padding: 0px;
+}
 .div {
     display: flex;
     width: 100%;
@@ -49,6 +68,9 @@ label {
     background: #F0F6FF;
     padding: 20px;
     border-radius: 10px;
+}
+#select{
+    max-width: 50px;
 }
 
 .Ddiv {

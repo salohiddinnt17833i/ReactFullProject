@@ -15,7 +15,7 @@ function Home(props) {
   const [loading, setLoading] = useState(false)
 
   function handleClick(i) {
-    navigate(`/products/${i}`)
+    navigate(`/products/${i} `)
   }
   useEffect(() => {
     const justLoggedIn = JSON.parse(localStorage.getItem("logged"))
